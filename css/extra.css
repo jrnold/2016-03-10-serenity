@@ -1,4 +1,5 @@
 .div .jumbotron {
-  background: rgb(238, 238, 238) img/download.jpeg
-  color: white
+  background-image: url(img/download.jpeg);
+  background-color: #eee;
+  color: white;
 }
