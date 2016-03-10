@@ -1,5 +1,5 @@
 .jumbotron {
-  background-image: url(/img/download.jpeg);
+  background-image: url("/img/download.jpeg");
   background-color: #eee;
   color: white;
 }
